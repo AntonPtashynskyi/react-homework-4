@@ -1,0 +1,22 @@
+.statsBtn {
+  cursor: pointer;
+  width: 80px;
+
+  padding: 5px 10px;
+  margin-bottom: 5px;
+
+  background-color: rgb(81, 115, 226);
+  color: aliceblue;
+
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+
+  border: none;
+  border-radius: 5px;
+  outline: none;
+}
+
+.statsBtn:active {
+  background-color: rgb(72, 146, 76);
+}
